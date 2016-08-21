@@ -1,0 +1,7 @@
+export const PRIMARY = '#895D9C'
+export const STRONG = '#C7009D'
+export const BLACK = '#030303'
+export const WHITE = '#FBFAFF'
+export const GRAY = '#B2B1B5'
+export const WEAK = '#A5B4E8'
+export const NEUTRAL = '#596FB5'
